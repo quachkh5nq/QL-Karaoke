@@ -1,0 +1,100 @@
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.exe.config
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.exe
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.pdb
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.Properties.Resources.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.exe
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.pdb
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDonViTinh.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmMatHang.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmLoaiPhong.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmPhong.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhanVien.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhapHang.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmChiTietHoaDonNhap.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmBanHang.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmOrder.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmMain.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDangNhap.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmTonKho.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDoanhThu.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmCongNo.resources
+C:\Users\Admin\Desktop\TaiLieu\C#\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDoiMatKhau.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.exe.config
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.exe
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.pdb
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.AssemblyReference.cache
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.SuggestedBindingRedirects.cache
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmBanHang.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmChiTietHoaDonNhap.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDoiMatKhau.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmCongNo.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDangNhap.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDoanhThu.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDonViTinh.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmLoaiPhong.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmMain.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmMatHang.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhaCungCap.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhanVien.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhapHang.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmOrder.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmPhong.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmTonKho.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.Properties.Resources.resources
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.GenerateResource.cache
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.CoreCompileInputs.cache
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.exe
+F:\Qlkaraoke\QuanLyKaraokeCSharp-master\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.pdb
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.exe.config
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.exe
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.pdb
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csprojAssemblyReference.cache
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmBanHang.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmChiTietHoaDonNhap.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDoiMatKhau.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmCongNo.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDangNhap.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDoanhThu.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDonViTinh.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmLoaiPhong.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmMain.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmMatHang.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhaCungCap.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhanVien.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhapHang.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmOrder.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmPhong.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmTonKho.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.Properties.Resources.resources
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.GenerateResource.cache
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.CoreCompileInputs.cache
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.exe
+D:\KHANGIT_PLAYER\FILE_CODE\.Net\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.pdb
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.exe.config
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.exe
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\bin\Debug\QL_KARAOKE.pdb
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csprojAssemblyReference.cache
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmBanHang.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmChiTietHoaDonNhap.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDoiMatKhau.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmCongNo.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDangNhap.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDoanhThu.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmDonViTinh.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmLoaiPhong.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmMain.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmMatHang.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhaCungCap.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhanVien.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmNhapHang.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmOrder.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmPhong.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.frmTonKho.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.Properties.Resources.resources
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.GenerateResource.cache
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.csproj.CoreCompileInputs.cache
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.exe
+C:\Users\NHUT KHANG\OneDrive\Máy tính\Nhom_01_CongNgheNet_Karaoke\QLKaraOke_.net\QL_KARAOKE\QL_KARAOKE\obj\Debug\QL_KARAOKE.pdb

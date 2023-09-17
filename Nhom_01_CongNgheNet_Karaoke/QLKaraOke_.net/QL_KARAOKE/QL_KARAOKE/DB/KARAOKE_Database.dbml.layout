@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 19" name="KARAOKE_Database">
+  <DataContextMoniker Name="/KARAOKE_DatabaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="655f6e0a-3249-41e5-8b09-2307f647f770" absoluteBounds="6.75, 6.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/CauHinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="082d3460-f78a-46c2-9ecc-07abe1acd36f" absoluteBounds="6.765, 6.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="32966176-c8da-41af-9974-f75bc57c0657" absoluteBounds="0.75, 12.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/Phong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="86bfd443-776d-4cc7-a0e9-61613568fda3" absoluteBounds="0.765, 12.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2da5cc15-9b14-4721-819f-d0e1ed832faf" absoluteBounds="6.25, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/ChiTietHoaDonBan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5d07b0ab-143c-4f10-b442-ab2590f6a3e0" absoluteBounds="6.265, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a825a80c-d09a-4b03-9a4d-9b3afbf3da3f" absoluteBounds="6.25, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/ChiTietHoaDonNhap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="50cb48e5-cdc2-42bc-96ba-e50be5904d38" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="75c0da05-5c39-4cd6-bd71-b74717c3bb5e" absoluteBounds="0.75, 3.5, 2, 2.1554996744791661">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/DonViTinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c2ab1bf9-a19b-4c3a-8e73-36416a3dc3c4" absoluteBounds="0.765, 3.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f99ff1b3-70bf-469b-8e1e-baa847d3a464" absoluteBounds="3.5, 12.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/HoaDonBanHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="24179ed0-7d47-423e-85b7-21cfeddd59ef" absoluteBounds="3.515, 12.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d1527d5f-e681-4015-b436-89add29b9cee" absoluteBounds="3.5, 8.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/HoaDonNhap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="50dd9f8f-2084-4324-98c2-74c46f7967b8" absoluteBounds="3.515, 8.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5d5dafa6-3d45-4285-8733-e7248707eb67" absoluteBounds="1.5, 16.375, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/LoaiPhong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="292ea94b-4c68-45d2-9479-2fd7d45fad5f" absoluteBounds="1.5150000000000001, 16.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc0e5ed3-5dc3-4c02-9267-a3ee5591b06b" absoluteBounds="3.5, 3, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/MatHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e0a918b6-aefb-45db-8178-0b847b3fdfd2" absoluteBounds="3.515, 3.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d1d8cd98-1af8-474d-9993-0a5f3fba05c4" absoluteBounds="0.75, 8.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/NhaCungCap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9cf51f0-025f-4403-aa38-e71f02ea5627" absoluteBounds="0.765, 8.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="10cac28a-c7c7-4ecb-b656-1862a24d43d1" absoluteBounds="6.75, 8.375, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/KARAOKE_DatabaseDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d772c1e-dda8-49d3-b338-02316bd1a7b6" absoluteBounds="6.765, 8.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 13.4912019856771); (6.46875 : 13.4912019856771); (6.46875 : 5.32859537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KARAOKE_DatabaseDataContext/HoaDonBanHang/HoaDonBanHang_ChiTietHoaDonBan" />
+      <nodes>
+        <classShapeMoniker Id="f99ff1b3-70bf-469b-8e1e-baa847d3a464" />
+        <classShapeMoniker Id="2da5cc15-9b14-4721-819f-d0e1ed832faf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 13.4912019856771); (3.5 : 13.4912019856771)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KARAOKE_DatabaseDataContext/Phong/Phong_HoaDonBanHang" />
+      <nodes>
+        <classShapeMoniker Id="32966176-c8da-41af-9974-f75bc57c0657" />
+        <classShapeMoniker Id="f99ff1b3-70bf-469b-8e1e-baa847d3a464" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 8.125); (5.875 : 7.75); (5.875 : 1.53929768880208); (6.25 : 1.53929768880208)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KARAOKE_DatabaseDataContext/HoaDonNhap/HoaDonNhap_ChiTietHoaDonNhap" />
+      <nodes>
+        <classShapeMoniker Id="d1527d5f-e681-4015-b436-89add29b9cee" />
+        <classShapeMoniker Id="a825a80c-d09a-4b03-9a4d-9b3afbf3da3f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.125 : 16.375); (2.125 : 14.8574039713542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KARAOKE_DatabaseDataContext/LoaiPhong/LoaiPhong_Phong" />
+      <nodes>
+        <classShapeMoniker Id="5d5dafa6-3d45-4285-8733-e7248707eb67" />
+        <classShapeMoniker Id="32966176-c8da-41af-9974-f75bc57c0657" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.53929768880208); (5.79166666666667 : 4.53929768880208 : JumpStart); (5.95833333333333 : 4.53929768880208 : JumpEnd); (6.25 : 4.53929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KARAOKE_DatabaseDataContext/MatHang/MatHang_ChiTietHoaDonBan" />
+      <nodes>
+        <classShapeMoniker Id="cc0e5ed3-5dc3-4c02-9267-a3ee5591b06b" />
+        <classShapeMoniker Id="2da5cc15-9b14-4721-819f-d0e1ed832faf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 3); (4.5 : 1.96519903320312); (5.79166666666667 : 1.96519903320312 : JumpStart); (5.95833333333333 : 1.96519903320312 : JumpEnd); (6.25 : 1.96519903320312)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KARAOKE_DatabaseDataContext/MatHang/MatHang_ChiTietHoaDonNhap" />
+      <nodes>
+        <classShapeMoniker Id="cc0e5ed3-5dc3-4c02-9267-a3ee5591b06b" />
+        <classShapeMoniker Id="a825a80c-d09a-4b03-9a4d-9b3afbf3da3f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.57774983723958); (3.5 : 4.57774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KARAOKE_DatabaseDataContext/DonViTinh/DonViTinh_MatHang" />
+      <nodes>
+        <classShapeMoniker Id="75c0da05-5c39-4cd6-bd71-b74717c3bb5e" />
+        <classShapeMoniker Id="cc0e5ed3-5dc3-4c02-9267-a3ee5591b06b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 9.49120198567708); (3.5 : 9.49120198567708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KARAOKE_DatabaseDataContext/NhaCungCap/NhaCungCap_HoaDonNhap" />
+      <nodes>
+        <classShapeMoniker Id="d1d8cd98-1af8-474d-9993-0a5f3fba05c4" />
+        <classShapeMoniker Id="d1527d5f-e681-4015-b436-89add29b9cee" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
